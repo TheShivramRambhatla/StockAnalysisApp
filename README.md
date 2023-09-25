@@ -7,7 +7,7 @@ using the price chart, returns, ratios, fundamental metrics, quantitative
 metrics and outlier analysis.   
 
  
-
+  
 Demo
 ----
 
